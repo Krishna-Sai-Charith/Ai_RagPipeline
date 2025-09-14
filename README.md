@@ -168,6 +168,3 @@ Place your `.md` documents into these folders to populate the knowledge base.
 - 2D/3D embedding visualizations  
 
 > It’s your **first step toward building your own ChatGPT over custom data!**
-
----
-```
